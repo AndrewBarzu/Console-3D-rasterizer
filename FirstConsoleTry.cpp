@@ -145,35 +145,8 @@ private:
     void DrawTriangle(int x1, int y1, int x2, int y2, int x3, int y3)
     {
         DrawLine(x1, y1, x2, y2);
-        /*system("cls");
-        for (int i = 0; i < rows; i++)
-        {
-            for (int j = 0; j < columns; j++)
-            {
-                cout << m_bufScreen[i][j];
-            }
-            cout << endl;
-        }*/
         DrawLine(x2, y2, x3, y3);
-        /*system("cls");
-        for (int i = 0; i < rows; i++)
-        {
-            for (int j = 0; j < columns; j++)
-            {
-                cout << m_bufScreen[i][j];
-            }
-            cout << endl;
-        }*/
         DrawLine(x3, y3, x1, y1);
-        /*system("cls");
-        for (int i = 0; i < rows; i++)
-        {
-            for (int j = 0; j < columns; j++)
-            {
-                cout << m_bufScreen[i][j];
-            }
-            cout << endl;
-        }*/
     }
     Vector3D DirectorVector(const Line);
     void getNormalVector(const Triangle& t)
