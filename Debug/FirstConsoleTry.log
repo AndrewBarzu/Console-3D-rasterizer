@@ -1,0 +1,15 @@
+﻿  FirstConsoleTry.cpp
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(72,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(322,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(322,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(321,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(321,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(320,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(320,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(439,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(439,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(438,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(438,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(437,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\FirstConsoleTry\FirstConsoleTry.cpp(437,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FirstConsoleTry.vcxproj -> D:\My Projects\FirstConsoleTry\Debug\FirstConsoleTry.exe

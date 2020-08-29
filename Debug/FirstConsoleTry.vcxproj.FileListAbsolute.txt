@@ -1,0 +1,2 @@
+D:\My Projects\FirstConsoleTry\Debug\FirstConsoleTry.exe
+D:\My Projects\FirstConsoleTry\Debug\FirstConsoleTry.pdb
